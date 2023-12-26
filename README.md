@@ -25,6 +25,7 @@
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/a64f27d9-71e0-4f55-a1b9-a9f9a5b2663e" width="60%" height="60%">
 
 - 칼로리, 당도, 카페인 입력시 해당 값 이내에 해당하는 메뉴 필터링
+- Random 버튼 선택 시 필터링된 메뉴 중 한가지 랜덤 출력
 
 
 ## Color Change Panner
@@ -38,7 +39,7 @@
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/1992a49a-7c3d-4ad9-aacd-1f4dc9c0cad4" width="60%" height="60%">
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/01b99ffa-0a02-43f6-b106-a6d9986d8aec" width="60%" height="60%">
 
-- 결제 완료 후 장바구니 초기화
+- 결제 완료 후 장바구니 초기화 및 영수증 출력
 - 취소하기 누를시 장바구니 초기화 
 
 
