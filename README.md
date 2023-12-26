@@ -6,7 +6,7 @@
 
 ## Menu Selection
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/adbd4775-ee74-4060-a5c5-929befe77dc5" width="60%" height="60%">
-- 메뉴 많은 경우 좌우 스크롤로 이동 가능
+* 메뉴 많은 경우 좌우 스크롤로 이동 가능 *
 
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/c66252fb-ced0-4c49-b863-683f29e48df3" width="60%" height="60%">
 - 메뉴 선택 시 상세 정보 다이얼로그
