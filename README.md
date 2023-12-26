@@ -16,6 +16,7 @@
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/0737329d-e3ad-42bf-ab2b-7cb3cce0068d" width="60%" height="60%">
 
 - 각 메뉴 - + 버튼으로 수량 조절 가능
+- 총 개수, 가격 자동 반영
 
 ## Filter
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/a64f27d9-71e0-4f55-a1b9-a9f9a5b2663e" width="60%" height="60%">
@@ -32,6 +33,7 @@
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/1992a49a-7c3d-4ad9-aacd-1f4dc9c0cad4" width="60%" height="60%">
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/01b99ffa-0a02-43f6-b106-a6d9986d8aec" width="60%" height="60%">
 
+- 결제하기 누르면 결제 진행 및 장바구니 초기화
 - 취소하기 누를시 장바구니 초기화 
 
 ## Save
