@@ -46,4 +46,4 @@
 ## Save
 <img src="https://github.com/Haneull-Kim/StarBucks-KIOSK/assets/143999813/f40b26c9-a286-4b55-930e-9f0e9bc78911" width="60%" height="60%">
 
-- 메뉴 주문 시 엑셀파일에 저장
+- 메뉴 주문 시 CSV파일에 저장
